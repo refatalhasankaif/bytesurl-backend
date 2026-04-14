@@ -1,4 +1,4 @@
-# BytesURL — Backend
+# BytesURL Backend
 
 A production-ready URL shortener API with analytics, subscription plans, payment integration, and AI-powered assistance.
 
